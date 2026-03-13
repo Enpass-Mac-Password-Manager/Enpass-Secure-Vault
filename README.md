@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://dawnanao5708.github.io/.github/enpass">  
+<a href="https://klarasadbury.github.io/.github/enpass-password-manager">  
 <img src="https://img.shields.io/badge/Get_Enpass-darkgreen?style=for-the-badge&logo=apple" alt="Get Enpass">  
 </a>  
 </div>  
